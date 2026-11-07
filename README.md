@@ -11,4 +11,4 @@ A lightweight and efficient Python-based Command Line Interface (CLI) tool desig
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/shirudesanket84-cloud2026/ai-code-reviewer.git](https://github.com/shirudesanket84-cloud2026/ai-code-reviewer.git)
+   git clone https://github.com/shirudesanket84-cloud2026/ai-code-reviewer.git
